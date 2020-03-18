@@ -1,8 +1,6 @@
 # Java_Test
-To test a string using command prompt run following commands
+Download the scr file for Github, and import project into ur IDE. To run this program use following command using command prompt
 
-Logic:
-javac StringProblems.java 
+java StringProblems
 
-Unit Test:
-javac StringProblemsTest.java
+For Unit Test the class name is StringProblemsTest
