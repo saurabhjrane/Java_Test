@@ -1,2 +1,2 @@
 # StringTest
-Test of string length
+To test Longest and Shortest words in a string and find their length
